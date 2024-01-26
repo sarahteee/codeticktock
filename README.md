@@ -9,5 +9,5 @@ Allow developers to set up multiple timers for different tasks.
 - Snarky Comment Pop-ups:
 Display witty comments about coding efficiency at regular intervals (e.g., every 10 minutes).
 ## Technologies List
-![HTML, CSS, JavaScript](htmlcssjs.png){ width=300 }
+![HTML, CSS, JavaScript](htmlcssjs.png) width="300"
 ## Deployed Website Link
