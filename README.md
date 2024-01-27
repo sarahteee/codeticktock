@@ -1,7 +1,7 @@
 # codeticktock
 ## Project Description
 CodeTickTock is a timesheet management platform designed to be a funny companion for developers to infuse humour into every coding session.
-### Features Include
+#### Features Include
 - Timesheet Tracking:
 Enable users to log and track time spent on different projects or tasks.
 - Customizable Timers:
