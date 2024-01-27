@@ -11,4 +11,4 @@ Display witty comments about coding efficiency at regular intervals (e.g., every
 ## Technologies List
 <img src="htmlcssjs.png" alt="HTML, CSS, JavaScript" width="200"/>
 
-## Deployed Website Link
+## Website Link
