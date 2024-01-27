@@ -10,4 +10,5 @@ Allow developers to set up multiple timers for different tasks.
 Display witty comments about coding efficiency at regular intervals (e.g., every 10 minutes).
 ## Technologies List
 <img src="htmlcssjs.png" alt="HTML, CSS, JavaScript" width="200"/>
+
 ## Deployed Website Link
